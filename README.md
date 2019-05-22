@@ -2,7 +2,7 @@
 
 Machine learning bot that uses Reddit API to analyze comments
 
-## Running instructions
+## Setup
 
 Add Reddit API keys to keys.py, use keys_sample.py as a guideline
 
